@@ -5,7 +5,7 @@
 
 This project is a web application designed to provide users with a dashboard for managing tasks and projects effectively. It includes features such as authentication, project overview, project details, task management, task filters, search functionality, and an interactive dashboard.
 
-[LIve LInk](https://openai.com)
+[LIve LInk](https://to-do-app-mu-lyart.vercel.app/)
 
 
 
@@ -52,5 +52,12 @@ This project is a web application designed to provide users with a dashboard for
 3. Run the development server using `npm run dev`.
 
 
+## Obstacle
 
- 
+Due to unforeseen electricity issues, I regret to inform you that I am unable to complete this project within the specified deadline. I apologize for any inconvenience this may cause.
+
+If possible, I will endeavor to resume work on the project once the electricity issues have been resolved. Thank you for your understanding.
+
+
+
+--Masum Rana

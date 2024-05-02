@@ -1,0 +1,390 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Website Redesign",
+      "details": "Redesign the company website to improve user experience and modernize the design.",
+      "teamMembers": [
+        "john.doe@example.com",
+        "jane.smith@example.com",
+        "alex.jones@example.com"
+      ],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mobile App Development",
+      "details": "Develop a mobile application for iOS and Android platforms to provide access to company services.",
+      "teamMembers": ["anna.wilson@example.com", "michael.brown@example.com"],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Marketing Campaign",
+      "details": "Launch a new marketing campaign to increase brand awareness and attract more customers.",
+      "teamMembers": [
+        "emma.garcia@example.com",
+        "william.roberts@example.com",
+        "olivia.davis@example.com"
+      ],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Product Launch",
+      "details": "Plan and execute the launch of a new product in the market, including marketing, sales, and distribution strategies.",
+      "teamMembers": [
+        "daniel.martinez@example.com",
+        "sophia.anderson@example.com"
+      ],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Software Development",
+      "details": "Develop a custom software solution to streamline internal processes and improve efficiency.",
+      "teamMembers": [
+        "matthew.jackson@example.com",
+        "emily.white@example.com",
+        "ethan.miller@example.com"
+      ],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Data Analysis Project",
+      "details": "Analyze large datasets to identify trends, patterns, and insights for informed decision-making.",
+      "teamMembers": ["oliver.taylor@example.com", "chloe.moore@example.com"],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Customer Service Improvement",
+      "details": "Implement new customer service strategies and tools to enhance customer satisfaction and loyalty.",
+      "teamMembers": ["lucas.anderson@example.com", "ava.thomas@example.com"],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "E-commerce Website Development",
+      "details": "Build an online store platform with features for product listings, shopping cart, and payment processing.",
+      "teamMembers": [
+        "benjamin.hall@example.com",
+        "mia.rodriguez@example.com",
+        "harper.lewis@example.com"
+      ],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Training Program Implementation",
+      "details": "Design and implement a training program for employees to enhance skills and knowledge.",
+      "teamMembers": [
+        "henry.hernandez@example.com",
+        "amelia.green@example.com"
+      ],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column3",
+          "title": "Done",
+          "cards": [
+            { "id": "card6", "text": "Task 6", "isEditing": false },
+            { "id": "card7", "text": "Task 7", "isEditing": false },
+            { "id": "card8", "text": "Task 8", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Social Media Marketing",
+      "details": "Create and manage social media campaigns across multiple platforms to engage with customers and promote products.",
+      "teamMembers": [
+        "logan.young@example.com",
+        "mia.carter@example.com",
+        "jack.harris@example.com"
+      ],
+      "workSpace": [
+        {
+          "id": "column1",
+          "title": "To Do",
+          "cards": [
+            { "id": "card1", "text": "Task 1", "isEditing": false },
+            { "id": "card2", "text": "Task 2", "isEditing": false },
+            { "id": "card3", "text": "Task 3", "isEditing": false }
+          ],
+          "isEditable": false
+        },
+        {
+          "id": "column2",
+          "title": "In Progress",
+          "cards": [
+            { "id": "card4", "text": "Task 4", "isEditing": false },
+            { "id": "card5", "text": "Task 5", "isEditing": false }
+          ],
+          "isEditable": false
+        }
+      ]
+    }
+  ]
+}
